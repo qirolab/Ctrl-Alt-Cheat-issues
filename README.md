@@ -7,10 +7,16 @@
 ## Features
 
 - **Extensive Cheat Sheet Collection**: Access 61+ cheat sheets across multiple languages and tools, with more being added in the future.
+  
+  ![Extensive Cheat Sheet Collection](https://i.imgur.com/7BsBPyu.gif "Extensive Cheat Sheet Collection")
 
 - **Search Within Cheatsheets**: Find specific code snippets within the selected cheat sheet and copy them quickly.
+  
+  ![Search Within Cheatsheets](https://i.imgur.com/blY7lyk.gif "Search Within Cheatsheets")
 
 - **Custom Cheat Sheet Creation**: Not finding what you need? No problem! Create your own custom cheat sheets for easy reference and organize your personal knowledge and streamline your workflow.
+  
+  ![Custom Cheat Sheet Creation](https://i.imgur.com/zpFXrBX.gif "Custom Cheat Sheet Creation")
 
 - **Manage Your Cheats**: Customize your own cheat sheets by adding, editing, or deleting entries. Please note that you cannot modify the pre-existing cheat sheets provided by the extension as any changes will be overwritten with the next update.
 
