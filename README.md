@@ -1,6 +1,6 @@
 # Ctrl+Alt+Cheat - The Ultimate Cheat Sheet Extension for VSCode
 
-[![Ctrl+Alt+Cheat](https://i.imgur.com/pE7Q968.png)](https://qirolab.com/ctrl-alt-cheat "![Ctrl+Alt+Cheat](https://i.imgur.com/pE7Q968.png)")
+[![Ctrl+Alt+Cheat](https://i.imgur.com/pE7Q968.png)](https://qirolab.com/ctrl-alt-cheat "Get Ctrl+Alt+Cheat VSCode Extension here")
 
 **Ctrl+Alt+Cheat** is an amazing VSCode extension that aims to enhance your programming experience by providing quick access to a wide range of cheat sheets for various programming languages and tools. Whether you're working with PHP, Javascript, Vue, React, Laravel, Docker, MySQL, Tailwind CSS, Bootstrap, Chmod, C++, Curl, or CSS, Ctrl+Alt+Cheat has what you need.
 
