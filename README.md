@@ -18,7 +18,7 @@ Watch our video tutorial to get started with Ctrl+Alt+Cheat: **[https://www.yout
 
 - **Search Within Cheatsheets**: Find specific code snippets within the selected cheat sheet and copy them quickly.
   
-  ![Search Within Cheatsheets](https://i.imgur.com/blY7lyk.gif "Search Within Cheatsheets")
+  ![Search Within Cheatsheets](https://i.imgur.com/7q14fZb.gif "Search Within Cheatsheets")
 
 - **Custom Cheat Sheet Creation**: Not finding what you need? No problem! Create your own custom cheat sheets for easy reference and organize your personal knowledge and streamline your workflow.
   
